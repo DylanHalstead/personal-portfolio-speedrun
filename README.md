@@ -1,4 +1,4 @@
-# Personal Webapp Speedrun
+# Personal Portfolio Speedrun
 We will be racing to get a personal portfolio webapp (basically a resume) built b4 the FDOC (Jan 10th). While it does not need to be 100% polished, have something in a working place before this deadline.
 
 ## Requirements
