@@ -2,7 +2,7 @@
 We will be racing to get a personal portfolio webapp (basically a resume) built b4 the FDOC (Jan 10th). While it does not need to be 100% polished, have something in a working place before this deadline.
 
 ## Requirements
-* Fork this repo to begin
+* Create a new repository based on this tempalte
 * Use some sort of web framework (Flask, Django, Express + Handlebars, React, MEVN, etc...)
 * Have some way to show any current and future projects you build
 * Upload to the cloud so it can be seen by others
